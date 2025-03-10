@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;  /* Removes bullet points */
+    padding: 30;  /* Optional: removes default padding */
+    margin: 30;  /* Optional: removes default margin */
+    display: flex;
+}
+
+button {
+    border-width: 0;
+    background-color: #fff;
+    cursor: pointer;
+    font-size: medium;
+    margin: 15px;
+}
+
+img{
+    margin: 15px;
+}
+
+.nav-button-container{
+    display: flex;
+    justify-content: space-between;
+}
