@@ -5,19 +5,19 @@ ul {
     display: flex;
 }
 
-button {
-    border-width: 0;
-    background-color: #fff;
-    cursor: pointer;
-    font-size: medium;
-    margin: 15px;
-}
-
-img{
-    margin: 15px;
-}
-
 .nav-button-container{
     display: flex;
     justify-content: space-between;
+}
+
+.contact-container{
+    padding-inline-end: 40px;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: medium;
+    margin: 15px;
 }
